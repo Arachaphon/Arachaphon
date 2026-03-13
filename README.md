@@ -13,7 +13,6 @@ Interested in **Full-Stack and Frontend Development internships**
 - 🌏 Based in **Chiang Mai, Thailand**
 - ✉️ Contact: **arachaphonklinchuen@gmail.com**
 - 💻 I build web applications using **React, TypeScript, Hono, and REST APIs**
-- 🏗 Currently developing a **Dormitory Management System**
 
 ---
 

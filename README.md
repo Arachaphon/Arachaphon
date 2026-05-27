@@ -1,25 +1,18 @@
-# Hi 👋 My name is Arachaphon Klinchuen
+# Hi 👋 I'm Arachaphon Klinchuen
 
-### Full-Stack Developer | Software Engineering Student
+Frontend / Full-Stack Developer  
+Software Engineering Student at University of Phayao
 
-Software Engineering student at the **University of Phayao (GPAX 3.81)**  
-Interested in **Full-Stack and Frontend Development internships**
-
----
-
-## About Me
-
-- 🎓 Software Engineering Student
-- 🌏 Based in **Chiang Mai, Thailand**
-- ✉️ Contact: **arachaphonklinchuen@gmail.com**
-- 💻 I build web applications using **React, TypeScript, Hono, and REST APIs**
+- 🌏 Chiang Mai, Thailand
+- 💻 Interested in Frontend & Full-Stack Development
+- ✉️ arachaphonklinchuen@gmail.com
 
 ---
 
 ## Tech Stack
 
 ### Frontend
-React • TypeScript • Tailwind CSS • Vue
+React • Next.js • Vue • TypeScript • Tailwind CSS
 
 ### Backend
 Hono • REST API • JWT Authentication
@@ -27,47 +20,41 @@ Hono • REST API • JWT Authentication
 ### Database
 Cloudflare D1 • MySQL • SQLite • Supabase
 
-### Tools
-Git • Docker • Vercel • Figma
+---
+
+## Featured Projects
+
+### 🏢 The Nexus
+Dormitory management system with billing, tenant management, maintenance workflow, and role-based access control.
+
+🔗 Demo | GitHub
 
 ---
 
-# Featured Projects
+### 📋 Gravity Plan
+Task management web application with task prioritization, real-time synchronization, and productivity tracking.
 
-## 🏢 The Nexus – Dormitory Management System
-
-Full-Stack web application for managing dormitory operations.
-
-Features:
-- Tenant and contract management
-- Monthly billing workflow
-- Utility meter tracking
-- Role-based access control
-- REST API backend
-
-Tech Stack:
-React • TypeScript • Hono • Cloudflare D1
+🔗 Demo | GitHub
 
 ---
 
-## 📋 Gravity Plan – To-Do List Application
-
-Task management system with productivity tracking.
-
-Features:
-- Task prioritization and tagging
-- Session-based time tracking
-- Real-time synchronization
-
-Tech Stack:
-Vue • Tailwind CSS • Supabase
-
----
-
-# GitHub Stats
+## GitHub Stats
 
 <p align="left">
-<a href="http://www.github.com/Arachaphon">
-<img src="https://github-readme-stats.vercel.app/api?username=Arachaphon&show_icons=true&hide_border=true" />
-</a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Arachaphon&show_icons=true&hide_border=true" 
+    height="165"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arachaphon&layout=compact&hide_border=true" 
+    height="165"
+  />
 </p>
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/Arachaphon
+- Portfolio: https://ak-portfolio-eta.vercel.app/

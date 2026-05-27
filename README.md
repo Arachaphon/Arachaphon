@@ -27,28 +27,29 @@ Cloudflare D1 • MySQL • SQLite • Supabase
 ### 🏢 The Nexus
 Dormitory management system with billing, tenant management, maintenance workflow, and role-based access control.
 
-🔗 Demo | GitHub
+
+🔗 [Demo](https://thenexus-chi.vercel.app) | [GitHub](https://github.com/Arachaphon/frontend-nexus.git)
 
 ---
 
 ### 📋 Gravity Plan
 Task management web application with task prioritization, real-time synchronization, and productivity tracking.
 
-🔗 Demo | GitHub
+🔗 [Demo](https://gravityplan.vercel.app) | [GitHub](https://github.com/kirin58/TO_DO_LIST.git)
 
 ---
 
 ## GitHub Stats
 
-<p align="left">
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Arachaphon&show_icons=true&hide_border=true" 
-    height="165"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arachaphon&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
   />
-  
+
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arachaphon&layout=compact&hide_border=true" 
-    height="165"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arachaphon&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
   />
 </p>
 

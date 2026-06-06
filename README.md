@@ -24,18 +24,35 @@ Cloudflare D1 • MySQL • SQLite • Supabase
 
 ## Featured Projects
 
-### 🏢 The Nexus
-Dormitory management system with billing, tenant management, maintenance workflow, and role-based access control.
+### Kinyark Ingredient
 
+**Role:** Backend Developer
 
-🔗 [Demo](https://thenexus-chi.vercel.app) | [GitHub](https://github.com/Arachaphon/frontend-nexus.git)
+AI-powered recipe discovery platform that helps users find recipes based on available ingredients in their refrigerator. Users can search for recipes, create and publish their own recipes, and receive AI-assisted recipe recommendations.
+
+**Status:** Currently under development.
+🔗 GitHub: https://github.com/Arachaphon/kinyark-ingredients.git
+---
+
+### The Nexus
+
+**Role:** Full-Stack Developer
+
+Dormitory management system featuring tenant management, room management, billing workflows, maintenance requests. Developed both frontend and backend components, including database design, REST APIs, authentication, and business workflows.
+
+🔗 Demo: https://thenexus-chi.vercel.app
+🔗 GitHub: https://github.com/Arachaphon/frontend-nexus.git
 
 ---
 
-### 📋 Gravity Plan
-Task management web application with task prioritization, real-time synchronization, and productivity tracking.
+### Gravity Plan
 
-🔗 [Demo](https://gravityplan.vercel.app) | [GitHub](https://github.com/kirin58/TO_DO_LIST.git)
+**Role:** Frontend Developer
+
+Task management web application supporting task prioritization, productivity tracking, and real-time synchronization. Responsible for frontend development and user interface implementation.
+
+🔗 Demo: https://gravityplan.vercel.app
+🔗 GitHub: https://github.com/kirin58/TO_DO_LIST.git
 
 ---
 

@@ -30,8 +30,9 @@ Cloudflare D1 • MySQL • SQLite • Supabase
 
 AI-powered recipe discovery platform that helps users find recipes based on available ingredients in their refrigerator. Users can search for recipes, create and publish their own recipes, and receive AI-assisted recipe recommendations.
 
-**Status:** Currently under development.
-🔗 GitHub: https://github.com/Arachaphon/kinyark-ingredients.git
+Status: Current under development.
+🔗 Github : https://github.com/Arachaphon/kinyark-ingredients.git
+
 ---
 
 ### The Nexus

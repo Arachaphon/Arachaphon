@@ -1,10 +1,9 @@
 # Hi 👋 I'm Arachaphon Klinchuen
 
-Full-Stack Developer  
 Software Engineering Student at University of Phayao
 
 - 🌏 Chiang Mai, Thailand
-- 💻 Interested in Frontend & Full-Stack Development
+- 💻 Interested in Frontend & Backend & Full-Stack Development
 - ✉️ arachaphonklinchuen@gmail.com
 
 ---

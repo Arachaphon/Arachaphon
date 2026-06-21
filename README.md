@@ -1,6 +1,6 @@
 # Hi 👋 I'm Arachaphon Klinchuen
 
-Frontend / Full-Stack Developer  
+Full-Stack Developer  
 Software Engineering Student at University of Phayao
 
 - 🌏 Chiang Mai, Thailand
@@ -11,14 +11,17 @@ Software Engineering Student at University of Phayao
 
 ## Tech Stack
 
-### Frontend
-React • Next.js • Vue • TypeScript • Tailwind CSS
+Programming Languages
+TypeScript | JavaScript | Java | Python | SQL | HTML
 
-### Backend
-Hono • REST API • JWT Authentication
+Database
+MySQL | PostgreSQL | SQLite | Cloudflare D1
 
-### Database
-Cloudflare D1 • MySQL • SQLite • Supabase
+Frameworks & Libraries
+React | Next.js | Vue | Tailwind CSS | Hono | Prisma | Zod
+
+Tools
+Git | GitHub | Docker | Vercel | GitHub Actions | Playwright | Figma | n8n
 
 ---
 
